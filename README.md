@@ -7,7 +7,7 @@
 
   
 
-- 🔭 I’m currently working on working on my personal projects!  
+- 🔭 I’m currently working on my personal projects!  
   
 
 - 🌱 I’m currently learning Kotlin, C, C++ and java  
