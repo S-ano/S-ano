@@ -13,7 +13,7 @@
 - 🌱 I’m currently learning Kotlin, C, C++ and java  
   
 
-- ✨Ask me about things related to Web developing and Discord bot developing  
+- ✨ Ask me about things related to Web developing and Discord bot developing  
   
 
 - ⚡ fun fact : My 40% errors are typos   
