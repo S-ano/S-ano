@@ -16,7 +16,7 @@
 - ✨ Ask me about things related to Web developing and Discord bot developing  
   
 
-- ⚡ fun fact : My 40% errors are typos   
+- ⚡ fun fact : My 30% errors are typos   
   
 
 <br/>  
