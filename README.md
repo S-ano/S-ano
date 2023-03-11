@@ -10,7 +10,7 @@
 - 🔭 I’m currently working on my personal projects!  
   
 
-- 🌱 I’m currently learning Kotlin, C, C++ and java  
+- 🌱 I’m currently learning Kotlin, & java  
   
 
 - ✨ Ask me about things related to Web developing and Discord bot developing  
